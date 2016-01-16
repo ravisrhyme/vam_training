@@ -1,0 +1,292 @@
+# depslib dependency file v1.0
+1331804971 source:/home/preetivenkat/Documents/vam/main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+
+1331804488 source:/home/preetivenkat/Documents/vam/color_feature.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+
+1331803729 /home/preetivenkat/Documents/vam/color.h
+	<cv.h>
+
+1331805084 source:/home/preetivenkat/Documents/vam/INTENSITY_FEATURE.CPP
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+
+1331791243 /home/preetivenkat/Documents/vam/intensity.h
+	<cv.h>
+
+1337220567 source:/home/ravikiran/Documents/vam/INTENSITY_FEATURE.CPP
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1334212620 /home/ravikiran/Documents/vam/color.h
+	<cv.h>
+
+1334214937 /home/ravikiran/Documents/vam/intensity.h
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+
+1337221075 source:/home/ravikiran/Documents/vam/color_feature.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<math.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1337234438 source:/home/ravikiran/Documents/vam/main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<math.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+
+1334213930 /home/ravikiran/Documents/vam/orientation.h
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+
+1337220913 source:/home/ravikiran/Documents/vam/orientation_feature.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<math.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1334212575 /home/ravikiran/Documents/vam/saliency.h
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"intensity.h"
+	"color.h"
+	"orientation.h"
+
+1337225230 source:/home/ravikiran/Documents/vam/saliency.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1335856930 source:/home/ravikiran/Documents/vam/winner_takeall.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+
+1336220511 /home/ravikiran/Documents/vam/winner_takeall.h
+	<iostream>
+	<cv.h>
+	<cxcore.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"extract_features.h"
+
+1337231906 source:/home/ravikiran/Documents/vam/winner_takeall2.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+	"extract_features.h"
+
+1336222039 source:/home/ravikiran/Documents/vam/extract_features.cpp
+	<iostream>
+	<fstream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+	"extract_features.h"
+
+1336221911 /home/ravikiran/Documents/vam/extract_features.h
+	<iostream>
+	<cv.h>
+	<cxcore.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1337220566 source:/home/ubuntu/vam-training/INTENSITY_FEATURE.CPP
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1334212620 /home/ubuntu/vam-training/color.h
+	<cv.h>
+
+1334214936 /home/ubuntu/vam-training/intensity.h
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+
+1334213930 /home/ubuntu/vam-training/orientation.h
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+
+1334212574 /home/ubuntu/vam-training/saliency.h
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"intensity.h"
+	"color.h"
+	"orientation.h"
+
+1337221074 source:/home/ubuntu/vam-training/color_feature.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<math.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1336222038 source:/home/ubuntu/vam-training/extract_features.cpp
+	<iostream>
+	<fstream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+	"extract_features.h"
+
+1336220510 /home/ubuntu/vam-training/winner_takeall.h
+	<iostream>
+	<cv.h>
+	<cxcore.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"extract_features.h"
+
+1336221910 /home/ubuntu/vam-training/extract_features.h
+	<iostream>
+	<cv.h>
+	<cxcore.h>
+	<highgui.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1337220912 source:/home/ubuntu/vam-training/orientation_feature.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<math.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1337225230 source:/home/ubuntu/vam-training/saliency.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+
+1335856930 source:/home/ubuntu/vam-training/winner_takeall.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+
+1337234980 source:/home/ubuntu/vam-training/winner_takeall2.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+	"extract_features.h"
+
+1337235688 source:/home/ubuntu/vam-training/main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<math.h>
+	"color.h"
+	"intensity.h"
+	"orientation.h"
+	"saliency.h"
+	"winner_takeall.h"
+
